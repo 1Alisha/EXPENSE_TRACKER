@@ -1,4 +1,9 @@
-<div style="color:red"><b><center>SNEAK PEEK INTO ETS</center></b></div><br>
+<div style="text-align: center; color: red;">
+  <b>SNEAK PEEK INTO ETS</b>
+</div>
+<br>
+
+
 1. The system allows users to record and monitor the expenses, providing a
 comprehensive overview of where the money is being spent.
 
